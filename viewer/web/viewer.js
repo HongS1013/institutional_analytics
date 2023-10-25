@@ -4119,7 +4119,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: 'siemens-2013-learning-analytics-the-emergence-of-a-discipline.pdf',
+    value: 'Learning_analytics_to_uncover_inequality.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
